@@ -1,0 +1,1 @@
+The arduino code that runs on the game of life display as developed for project conway. Depends on Adafruit's WS2801 library.
